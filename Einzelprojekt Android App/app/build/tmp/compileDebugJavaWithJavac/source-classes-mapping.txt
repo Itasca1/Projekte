@@ -1,0 +1,41 @@
+de/techfak/gse/maheidemann/modell/CubeNumb.java
+ de.techfak.gse.maheidemann.modell.CubeNumb
+de/techfak/gse/maheidemann/modell/DifferentColorsException.java
+ de.techfak.gse.maheidemann.modell.DifferentColorsException
+de/techfak/gse/maheidemann/modell/InvalidDiceNumb.java
+ de.techfak.gse.maheidemann.modell.InvalidDiceNumb
+de/techfak/gse/maheidemann/modell/CubeColor.java
+ de.techfak.gse.maheidemann.modell.CubeColor
+de/techfak/gse/maheidemann/modell/InvalidBoardLayoutException.java
+ de.techfak.gse.maheidemann.modell.InvalidBoardLayoutException
+de/techfak/gse/maheidemann/BuildConfig.java
+ de.techfak.gse.maheidemann.BuildConfig
+de/techfak/gse/maheidemann/modell/InvalidDiceColor.java
+ de.techfak.gse.maheidemann.modell.InvalidDiceColor
+de/techfak/gse/maheidemann/modell/InvalidPositionException.java
+ de.techfak.gse.maheidemann.modell.InvalidPositionException
+de/techfak/gse/maheidemann/modell/RelatedFieldException.java
+ de.techfak.gse.maheidemann.modell.RelatedFieldException
+de/techfak/gse/maheidemann/modell/Field.java
+ de.techfak.gse.maheidemann.modell.Field
+de/techfak/gse/maheidemann/modell/InvalidFieldException.java
+ de.techfak.gse.maheidemann.modell.InvalidFieldException
+de/techfak/gse/maheidemann/modell/CheckValidField.java
+ de.techfak.gse.maheidemann.modell.CheckValidField
+de/techfak/gse/maheidemann/controller/GameApplication.java
+ de.techfak.gse.maheidemann.controller.GameApplication
+de/techfak/gse/maheidemann/modell/Game.java
+ de.techfak.gse.maheidemann.modell.Game
+de/techfak/gse/maheidemann/modell/CheckValidTurn.java
+ de.techfak.gse.maheidemann.modell.CheckValidTurn
+de/techfak/gse/maheidemann/controller/MainActivity.java
+ de.techfak.gse.maheidemann.controller.MainActivity
+ de.techfak.gse.maheidemann.controller.MainActivity$1
+ de.techfak.gse.maheidemann.controller.MainActivity$2
+de/techfak/gse/maheidemann/controller/GameboardActivity.java
+ de.techfak.gse.maheidemann.controller.GameboardActivity
+ de.techfak.gse.maheidemann.controller.GameboardActivity$1
+ de.techfak.gse.maheidemann.controller.GameboardActivity$2
+ de.techfak.gse.maheidemann.controller.GameboardActivity$3
+ de.techfak.gse.maheidemann.controller.GameboardActivity$4
+ de.techfak.gse.maheidemann.controller.GameboardActivity$5
