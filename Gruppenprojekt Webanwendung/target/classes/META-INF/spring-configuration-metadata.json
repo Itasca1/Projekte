@@ -1,0 +1,47 @@
+{
+  "groups": [
+    {
+      "name": "security",
+      "type": "gpse.example.security.SecurityConstants",
+      "sourceType": "gpse.example.security.SecurityConstants"
+    }
+  ],
+  "properties": [
+    {
+      "name": "security.auth-login-url",
+      "type": "java.lang.String",
+      "sourceType": "gpse.example.security.SecurityConstants"
+    },
+    {
+      "name": "security.jwt-secret",
+      "type": "java.lang.String",
+      "sourceType": "gpse.example.security.SecurityConstants"
+    },
+    {
+      "name": "security.token-audience",
+      "type": "java.lang.String",
+      "sourceType": "gpse.example.security.SecurityConstants"
+    },
+    {
+      "name": "security.token-header",
+      "type": "java.lang.String",
+      "sourceType": "gpse.example.security.SecurityConstants"
+    },
+    {
+      "name": "security.token-issuer",
+      "type": "java.lang.String",
+      "sourceType": "gpse.example.security.SecurityConstants"
+    },
+    {
+      "name": "security.token-prefix",
+      "type": "java.lang.String",
+      "sourceType": "gpse.example.security.SecurityConstants"
+    },
+    {
+      "name": "security.token-type",
+      "type": "java.lang.String",
+      "sourceType": "gpse.example.security.SecurityConstants"
+    }
+  ],
+  "hints": []
+}
