@@ -1,0 +1,363 @@
+{
+    "verification" : {
+        "back" : "Back to Login",
+        "failed" : "Verification failed",
+        "sucess" : "Verifizierung succeeded",
+        "caption" : "Account was verified sucessfully",
+        "failedtext" : "Verification has failed, please connect to an administrator"
+    },
+    "statistic" : {
+        "title": "Statistics",
+        "name": "Name",
+        "rank": "Rank",
+        "score": "Score",
+        "faculties": "Faculties",
+        "groups": "Groups",
+        "courses": "Courses",
+        "users": "Users",
+        "setFaculties": "Only show my faculties",
+        "setGroups": "Only show my groups",
+        "setCourses": "Only show my courses",
+        "setUsers": "Only show my score"
+
+    },
+    "landingPage" : {
+        "access": "Access offers lecturers an easy way to import their LMS courses into the platform and check them for accessibility. The verification consists of an automatic part and a manual part guided by Access. The platform guides the lecturers and gives tips on how to carry out the manual test steps. Access then creates a review of the errors and shows where errors need to be fixed. Furthermore, Access gives the uploaded LMS courses a score to enable comparison with other lecturers.",
+        "barriere": "A website that is accessible increases usability for everyone. Clear structures, easy to perceive content and technically clean websites improve the user experience. Users with mobile devices, people with physical or cognitive disabilities, senior citizens or inexperienced users can find their way around the website more easily. Web accessibility benefits everyone.",
+        "login": "Login",
+        "register": "Register",
+        "whyAccess": "Why Access?",
+        "whyDigital": "Why digital Accessibility?",
+        "digitalAccessibility": "Digital Accessibility",
+        "start": "Start now"
+
+    },
+    "profile" : {
+        "data": "My Data",
+        "data2": "Data",
+        "responsibilities": {
+            "main": "Assign Responsibilities",
+            "faculties": {
+                "main": "Here you can assign users the role as faculty manager",
+                "inputFac": "Faculty",
+                "inputUser": "User",
+                "assign": "Assign"
+            },
+            "groups": {
+                "main": "Here you can assign users the role as access group manager",
+                "inputGroup": "Group",
+                "inputUser": "User",
+                "assign": "Assign"
+            },
+            "courses": {
+                "main": "Here you can assign users the role as access course manager",
+                "inputGroup": "Course",
+                "inputUser": "User",
+                "assign": "Assign"
+            }
+        },
+        "deleteResponsibilities": {
+            "main": "Delete Responsibilities",
+            "faculties": {
+                "main": "Here you can delete the role as faculty manager for specific users",
+                "inputFac": "Faculty",
+                "inputUser": "User",
+                "delete": "Delete"
+            },
+            "groups": {
+                "main": "Here you can delete the role of access group manage for specific users",
+                "inputGroup": "Group",
+                "inputUser": "User",
+                "assign": "Delete"
+            },
+            "courses": {
+                "main": "Here you can delete the role of access course manager for specific users",
+                "inputGroup": "Course",
+                "inputUser": "User",
+                "assign": "Delete"
+            }
+        },
+        "connect": {
+            "main": "Manage Connections",
+            "anfragen": "Request Connections",
+            "delete": "Delete Connections",
+            "inputfac": "Fakulty",
+            "inputgroup": "Group",
+            "inputcourse": "Course"
+        },
+        "settings": "Settings",
+        "profile": "My Profile",
+        "profile2": "Profile of ",
+        "email": "Email",
+        "vorname": "Firstname",
+        "nachname": "Lastname",
+        "sprache": "Language",
+        "setVisible": "Set my Score to be visible to other users"
+    },
+    "manage" : {
+        "search": "Search",
+        "reset": "Reset",
+        "confirm": "Confirm",
+        "cancel": "Cancel",
+        "save": "Save",
+        "delete": "Delete",
+        "edit": "Edit",
+        "weighting": "Weighting",
+        "no_faculty_specified": "No faculty specified",
+        "no_faculty_name": "No faculty name",
+        "no_group_specified": "No group specified",
+        "no_group_name": "No group name",
+
+        "add_faculty": "Add new faculty",
+        "add_group": "Add new group",
+        "add_course": "Add new course",
+
+        "update_faculty": "Update faculty",
+        "update_group": "Update group",
+        "update_course": "Update course",
+
+        "no_faculty_available": "No faculty available",
+        "no_group_available": "No group available",
+        "no_course_available": "No course available",
+
+        "no_faculty_selected": "No faculty selected",
+        "no_group_selected": "No group selected",
+        "no_course_selected": "No course selected",
+
+        "changes_saved": "Changes saved",
+        "changes_failed": "Changes failed",
+        "changes_saved_in_db": "Changes have been saved to database",
+        "changes_could_not_save": "Changes could not be saved",
+
+        "delete_selected_faculty": "Delete selected faculty",
+        "delete_selected_group": "Delete selected group",
+        "delete_selected_course": "Delete selected course",
+
+        "delete_confirm": "Do your really want to delete? This action cannot be undone.",
+
+        "course_data": "Course data"
+    },
+    "database" : {
+        "id": "ID",
+        "name": "Name",
+        "score": "Score",
+
+        "faculty":"Faculty | Faculties",
+        "faculty_id": "Faculty ID",
+        "faculty_name": "Faculty name",
+        "faculty_score": "Faculty score",
+        "update_faculty": "Update faculty",
+
+        "group": "Group | Groups",
+        "access_group": "ACCESS-Group | ACCESS-Groups",
+        "group_id": "Group ID",
+        "group_name": "Group name",
+        "group_score": "Group score",
+        "semester": "Semester",
+        "faculty_of_group": "Faculty of group",
+
+        "course": "Course | Courses",
+        "course_id": "Course ID",
+        "course_name": "Course name",
+        "course_score": "Course score",
+        "course_public": "Make course public",
+        "access_course": "ACCESS-Course",
+        "access_courses": "ACCESS-Courses",
+        "update_course": "Update Course",
+        "group_of_course": "Group of Course",
+        "employee": "Employee",
+        "manager": "Manager",
+        "group_managers": "Group managers",
+        "faculty_managers": "Faculty managers",
+        "no_manager_exists": "No manager registered",
+        "weight": "weight"
+    },
+    "Visible_Courses": "Öffentliche Kurse",
+    "sample": "This is a Sample Text",
+    "Pages": "Pages",
+    "Incomplete": "Incomplete Reviews",
+    "Checklist": "Checklist",
+    "yes": "Yes",
+    "no": "No",
+    "continue" : "Continue",
+    "menu": {
+        "dashboard": "Dashboard",
+        "statistics": "Statistics",
+        "public_courses": "Public Courses",
+        "recently_visited": "Recently visited",
+        "profile": "Profile",
+        "logout": "Logout"
+    },
+    "course_page" : {
+        "infoCourse" : "The score is determined as follows: (Sum of all htmlscores / number of html's in course)*100",
+        "new_review" : "Review new site",
+        "manage_courses": "Manage courses",
+        "manage_course": "Manage course",
+        "automatic_test" : "Automatic Test",
+        "image_test" : "Images",
+        "video_test" : "Video-Integration",
+        "textFormatting_result" : "Texttransformation",
+        "link_result" : "Hyperlinks",
+        "weight_strong": "Strong",
+        "weight_weak":"Weak",
+        "lists_result" : "Lists",
+        "visible": "Visibility",
+        "setVisible": "Make course visible to other users?",
+        "setVisibleInfo": "When your course is set to be visible other users its score will be listed in the public leaderboard."
+
+    },
+    "manual_check" : {
+        "manual_check" : "Manual Check",
+        "show_context" : "Show Page",
+        "prev_question" : "Previous question",
+        "question": "Question {0}/{1}: {2}",
+        "prev_selection": "Previous selection:",
+        "quit" : "Save & Quit",
+        "mark": "Mark",
+        "dont_mark": "Don't mark",
+        "images" : {
+            "question" : "Are image elements implemented accessible?",
+            "description" : [
+                "Images must be fully described by alternative texts",
+                "Images must not contain text unless they are intended as a logo",
+                "Images that are for decoration do not need alternative text"
+            ],
+            "task" : "Below you will see a list of all images with alternative texts. Go through them and tick the answers that fit. Then click on CONTINUE",
+            "no_alt" : "No alternative text found",
+            "alt_decorative" : "Image is decorative",
+            "alt_decorative_desc" : "Decorative image elements do not require an alternative text",
+            "alt_incorrect" : "Alternative text missing",
+            "alt_correct" : "Alternative text correct",
+            "txt_correct" : "No text included in image",
+            "txt_isLogo" : "Picture is a logo",
+            "txt_isLogo_desc" : "Text elements are allowed in logos",
+            "txt_incorrect" : "Text included in image without being a logo",
+            "no_images" : "No image elements were found. Click on CONTINUE to proceed"
+        },
+        "videos" : {
+            "question" : "Are subtitles and audio discreptions available?",
+            "description" : [
+                "Videos include subtitles for the deaf that depict the content of the video",
+                "If additional text exists in the video, it will be read aloud through audio discrepancies",
+                "Other accessible alternatives may exist, such as transcripts for podcasts"
+            ],
+            "task" : "Below you can see a list of all videos. Look at them and mark the answers that apply. Then click on CONTINUE",
+            "vid_correct" : "Subtitles complete",
+            "vid_incorrect" : "Subtitles missing",
+            "ad_notRequired" : "No additional text available (audio description not required)",
+            "ad_correct" : "Audio description complete",
+            "ad_incorrect" : "Audio description incomplete",
+            "no_videos" : "No video elements were found. Click on CONTINUE to proceed"
+        },
+        "lists" : {
+            "question" : "Are lists implemented correctly?",
+            "description" : [
+                "Lists should be marked as such and be implemented semantically",
+                "It is not enough to manually insert \"1.\", ... in the text",
+                "All correctly marked lists have been bordered red",
+                "Any lists that are not bordered have not been marked correctly"
+            ]
+        },
+        "textformatting": {
+            "question": "Are bold and italic text elements properly implemented?",
+            "description": [
+                "Bold text should be marked with <strong>",
+                "Italic text should be marked with <em>",
+                "Marking bold/italic only via CSS is not enough",
+                "All correctly implemented formatted texts have been bordered green",
+                "Any bold/italic texts that are not bordered green have not been implemented correctly",
+                "Incorrectly implemented formatted texts can now be marked by clicking on them"
+            ],
+            "faulty_formatting": "Faulty formatted texts:",
+            "dialog_question": "Should this element be marked as falsely implemented formatted text?"
+        },
+        "links": {
+            "question": "Are meaningful link texts displayed for all links?",
+            "description": [
+                "Links do not consist of the URL to which they lead",
+                "If the link leads to a file, the format is specified",
+                "The link text has been chosen sensibly"
+            ],
+            "correct" : "Link text is correct",
+            "incorrect" : "Link text is incorrect",
+            "types" : {
+                "null" : "does not lead to any page",
+                "start" : "leads to the beginning of the uploaded page",
+                "mail" : "leads to the e-mail adress",
+                "section" : "leads to the section",
+                "page" : "leads to"
+            },
+            "task" : "Below you can see a list of all links. Look at them and mark the answers that apply. Then click on CONTINUE",
+            "no_links" : "No link elements were found. Click on CONTINUE to proceed"
+        }
+    },
+    "automatic_testing" : {
+        "title": "Automatic Testing",
+        "continue_test": "Continue with test",
+        "show_in_file": "Show in document",
+        "test_in_progress": "Please Wait, page is currently being tested.",
+        "no_err_found": "No violations were found. Press \"Contiunue with test\" to continue testing.",
+        "help_tooltip": "Open help page"
+    },
+    "dashboard": {
+        "Your_courses_and_facultys": "Your courses and facultys",
+        "manage_course": "manage course",
+        "add_course": "add course",
+        "answer_yes": "true",
+        "answer_no": "false"
+    },
+    "detailedView": {
+        "infoDetailedView": "The score is determined as follows: (number of elements tested correctly / number of elements to be tested)*100",
+        "review": "Review",
+        "retest": "Test again",
+        "show": "Show document",
+        "delete": "Delete Document",
+        "checklist": "Checklist:",
+        "automatic": "Automatic Test",
+        "automatic_desc": "The Automatic Test has detected violations that require fixing.",
+        "images": "Images",
+        "image_desc_alt": "Images have no alternative text",
+        "image_desc_txt": "Images contain text",
+        "videos": "Videos",
+        "video_desc_ad": "Videos do not have audio description",
+        "video_desc_vid": "Videos do not have any subtitles",
+        "links": "Links",
+        "link_desc": "Links are not marked correctly",
+        "lists": "Lists",
+        "list_desc": "Lists are not marked correctly",
+        "formatting": "Formatted texts",
+        "formatting_desc": "formatted texts are not marked correctly",
+        "delete_title": "Confirm deletion",
+        "delete_desc": "Are you sure you want to delete the html file and its review? this process cannot be undone.",
+        "delete_cancel": "Cancel",
+        "delete_confirm": "Confirm",
+        "retest_title": "Test page again?",
+        "retest_desc": "Do you want to test the same file again? The old review will be overwritten"
+    },
+    "progressBar": {
+        "Your_personal_progress": "Your personal progress",
+        "barrier_free": "Barrier-free (corresponds to AA)",
+        "not_yet_barrier_free": "Not yet barrier-free",
+        "own_avg": "Own average",
+        "total_avg": "Total average",
+        "NA": "Not available",
+        "infoOwn" : "The score is calculated as: Sum of all the user's course scores / number of user's courses.",
+        "infoAvg" : "The score is calculated as: Sum of all the user's group scores / number of user's groups."
+    },
+    "403": {
+        "title": "Error 403 - Forbidden",
+        "masage": "Sie haben keine Berechtigung zum Zugriff auf diesen Server!",
+        "button": "go to previous page"
+    },
+    "404": {
+        "title": "Error 403 - Not found",
+        "masage": "The page you requested could not be found",
+        "button": "go to previous page"
+    },
+    "group": {
+        "infoGroup" : "The score is determined as follows: (sum of individual courses / number of courses in the group)"
+   },
+    "faculty": {
+        "infoFaculty": "The score is determined as follows: (sum of the individual group scores / number of groups in the faculty)"
+    }
+}

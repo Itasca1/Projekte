@@ -1,0 +1,397 @@
+{
+    "verification" : {
+        "back" : "Zurück zum Login",
+        "failed" : "Verifizierung fehlgeschlagen",
+        "sucess" : "Verifizierung abgeschlossen",
+        "caption" : "Account wurde erfolgreich verifiziert",
+        "failedtext" : "Die Verifizierung ist fehlgeschlagen. Wenden sie sich an einen Administrator"
+    },
+    "statistic" : {
+        "title": "Rangliste",
+        "name": "Name",
+        "rank": "Rang",
+        "score": "Punktzahl",
+        "faculties": "Fakultäten",
+        "groups": "Gruppen",
+        "courses": "Kurse",
+        "users": "Benutzer",
+        "setFaculties": "Nur meine Fakultäten anzeigen",
+        "setGroups": "Nur meine Gruppen anzeigen",
+        "setCourses": "Nur meine Kurse anzeigen",
+        "setUsers": "Nur meine Punktzahl anzeigen"
+    },
+    "landingPage" : {
+        "access": "Access bietet Dozierenden eine einfache Möglichkeit ihre LMS-Kurse in die Plattform zu importieren und auf Barrierefreiheit zu überprüfen. Die Überprüfung besteht aus einem automatischen und einem manuellen, von Access angeleiteten Teil. Die Plattform leitet die Dozierenden an und gibt Tipps, wie diese die manuellen Prüfschritte durchführen sollen. Dannach erstellt Access eine Prüfübersicht über die Fehler und zeigt auf, wo Fehler behoben werden müssen. Desweiteren gibt Access den hochgeladenen LMS-Kursen einen Score, um die Möglichkeit zum Vergleich mit anderen Dozierenden zu schaffen.",
+        "barriere": "Eine Website barrierefrei umzusetzen, erhöht die Nutzbarkeit für Alle. Klare Strukturen, gut wahrnehmbare Inhalte und technisch saubere Internetseiten verbessern die User Experience. Nutzer mit mobilen Endgeräten, Menschen mit körperlichen oder kognitiven Behinderungen, Senioren oder unerfahrene User finden sich auf der Website dadurch leichter zurecht. Web Accessibility nutzt allen.",
+        "login": "Einloggen",
+        "register": "Registrieren",
+        "whyAccess": "Warum Access?",
+        "whyDigital": "Warum digitale Barrierefreiheit?",
+        "digitalAccessibility": "Digitale Barrierefreiheit",
+        "start": "Jetzt starten"
+
+    },
+    "profile" : {
+        "data": "Meine Daten",
+        "data2": "Daten",
+        "deleteResponsibilities": {
+            "main": "Verantwortlichkeiten löschen",
+            "faculties": {
+                "main": "Hier kann die Rolle des Fakultätsleiters für bestimmte Nutzer gelöscht werden",
+                "inputFac": "Fakultät",
+                "inputUser": "Nutzer",
+                "assign": "Löschen"
+            },
+            "groups": {
+                "main": "Hier kann die Rolle des Access-Gruppenleiters für bestimmte Nutzer gelöscht werden",
+                "inputGroup": "Gruppe",
+                "inputUser": "Nutzer",
+                "assign": "Löschen"
+            },
+            "courses": {
+                "main": "Hier kann die Rolle des Access-Kursleiters für bestimmte Nutzer gelöscht werden",
+                "inputGroup": "Kurs",
+                "inputUser": "Nutzer",
+                "assign": "Löschen"
+            }
+        },
+        "responsibilities": {
+            "main": "Verantwortlichkeiten zuweisen",
+            "faculties": {
+                "main": "Hier kann Nutzern die Rolle des Fakultätsleiters zugewiesen werden",
+                "inputFac": "Fakultät",
+                "inputUser": "Nutzer",
+                "assign": "Zuweisen"
+            },
+            "groups": {
+                "main": "Hier kann Nutzern die Rolle des Access-Gruppenleiters zugewiesen werden",
+                "inputGroup": "Gruppe",
+                "inputUser": "Nutzer",
+                "assign": "Zuweisen"
+            },
+            "courses": {
+                "main": "Hier kann Nutzern die Rolle des Access-Kursleiters zugewiesen werden",
+                "inputGroup": "Kurs",
+                "inputUser": "Nutzer",
+                "assign": "Zuweisen"
+            }
+        },
+        "faculties": {
+            "main": "Fakultäten zuweisen",
+            "inputFac": "Fakultät",
+            "inputUser": "Nutzer",
+            "assign": "Zuweisen"
+        },
+        "groups": {
+            "main": "Gruppen zuweisen",
+            "inputGroup": "Gruppe",
+            "inputUser": "Nutzer",
+            "assign": "Zuweisen"
+        },
+        "connect": {
+            "main": "Verbindungen verwalten",
+            "anfragen": "Verbindungen anfragen",
+            "delete": "Verbindung entfernen",
+            "inputfac": "Fakultät",
+            "inputgroup": "Gruppe",
+            "inputcourse": "Kurs"
+        },
+        "settings": "Einstellungen",
+        "profile": "Mein Profil",
+        "profile2": "Profil von ",
+        "email": "Email",
+        "vorname": "Vorname",
+        "nachname": "Nachname",
+        "sprache": "Sprache",
+        "setVisible": "Meinen Score für andere Benutzer sichtbar machen"
+    },
+    "manage" : {
+        "search": "Suche",
+        "reset": "Zurücksetzen",
+        "confirm": "Bestätigen",
+        "cancel": "Abbrechen",
+        "save": "Speichern",
+        "delete": "Löschen",
+        "edit": "Bearbeiten",
+        "weighting": "Gewichtung",
+        "no_faculty_specified": "Keine Fakultät angegeben",
+        "no_faculty_name": "Kein Fakultätsname",
+        "no_group_specified": "Keine Gruppe angegeben",
+        "no_group_name": "Kein Gruppenname",
+        "add_faculty": "Neue Fakultät hinzufügen",
+        "add_group": "Neue Gruppe hinzufügen",
+        "add_course": "Neuen Kurs hinzufügen",
+        "update_faculty": "Fakultät aktualisieren",
+        "update_group": "Gruppe aktualisieren",
+        "update_course": "Kurs aktualisieren",
+
+        "no_faculty_available": "Keine Fakultät verfügbar",
+        "no_group_available": "Keine Gruppe verfügbar",
+        "no_course_available": "Kein Kurs verfügbar",
+
+        "no_faculty_selected": "Keine Fakultät ausgewählt",
+        "no_group_selected": "Keine Gruppe ausgewählt",
+        "no_course_selected": "Kein Kurs ausgewählt",
+
+        "changes_saved": "Änderungen übernommen",
+        "changes_failed": "Änderungen fehlgeschlagen",
+        "changes_saved_in_db": "Änderungen wurden in der Datenbank gespeichert",
+        "changes_could_not_save": "Änderungen konnten nicht gespeichert werden",
+
+        "delete_selected_faculty": "Ausgewählte Fakultät löschen",
+        "delete_selected_group": "Ausgewählte Gruppe löschen",
+        "delete_selected_course": "Ausgewählten Kurs löschen",
+
+        "delete_confirm": "Möchtest du wirklich löschen? Dieser Vorgang kann nicht rückgängig gemacht werden.",
+
+        "course_data": "Kursdaten"
+    },
+    "database": {
+        "id": "ID",
+        "name": "Name",
+        "score": "Bewertung",
+        "faculty": "Fakultät | Fakultäten",
+        "faculty_id": "Fakultäts-ID",
+        "faculty_name": "Fakultätsname",
+        "faculty_score": "Fakultätsbewertung",
+        "update_faculty": "Fakultät aktualisieren",
+        "group": "Gruppe | Gruppen",
+        "access_group": "ACCESS-Gruppe | ACCESS-Gruppen",
+        "group_id": "Gruppen-ID",
+        "group_name": "Gruppenname",
+        "group_score": "Gruppenbewertung",
+        "semester": "Semester",
+        "faculty_of_group": "Fakultät der Gruppe",
+        "course": "Kurse | Kurse",
+        "course_id": "Kurs-ID",
+        "course_name": "Kursname",
+        "course_score": "Kursbewertung",
+        "course_public": "Kurs öffentlich machen",
+        "access_course": "ACCESS-Kurs | ACCESS-Kurse",
+        "update_course": "Kurs aktualisieren",
+        "group_of_course": "Gruppe des Kurses",
+        "employee": "Mitarbeiter",
+        "manager": "Verantwortlicher",
+        "group_managers": "Gruppenverantwortliche",
+        "faculty_managers": "Fakultätsverantwortliche",
+        "no_manager_exists": "Kein Verantwortlicher eigetragen",
+        "weight": "Gewichtung"
+    },
+    "sample": "Dies ist ein Beispieltext",
+    "Pages": "Seiten",
+    "Incomplete": "Unvollständige Reviews",
+    "Checklist": "Checkliste",
+    "yes": "Ja",
+    "no": "Nein",
+    "continue": "Weiter",
+    "menu": {
+        "dashboard": "Dashboard",
+        "statistics": "Rangliste",
+        "public_courses": "Öffentliche Kurse",
+        "recently_visited": "Zuletzt besucht",
+        "profile": "Profil",
+        "logout": "Ausloggen"
+    },
+    "course_page": {
+        "infoCourse": "Der Score wird wie folgt ermittelt: (Summe der einzelnen htmlscores / Anzahl an html's im Kurs)*100",
+        "new_review": "Neue Seite überprüfen",
+        "manage_courses": "Kurse verwalten",
+        "manage_course": "Kurs verwalten",
+        "automatic_test" : "Automatischer Test",
+        "image_test" : "Bilder",
+        "video_test" : "Video-Einbindung",
+        "textFormatting_result" : "Texttransformation",
+        "link_result" : "Hyperlinks",
+        "weight_strong":"Stark",
+        "weight_weak":"Schwach",
+        "lists_result" : "Listen",
+        "visible": "Sichtbarkeit",
+        "setVisible": "Den Kurs für andere Benutzer sichtbar machen?",
+        "setVisibleInfo": "Wenn der Kurs für andere Benutzer sichtbar gemacht wurde, ist seine Punktzahl in der öffentlichen Rangliste einsehbar."
+    },
+    "manual_check" : {
+        "manual_check" : "Manuelle Überprüfung",
+        "show_context" : "Seite anzeigen",
+        "prev_question" : "Vorherige Frage",
+        "question" : "Frage {0}/{1}: {2}",
+        "prev_selection" : "Vorherige Auswahl:",
+        "quit" : "Zwischenspeichern & Beenden",
+        "mark": "Markieren",
+        "dont_mark": "Nicht markieren",
+        "images" : {
+            "question" : "Sind Bildelemente barrierefrei implementiert?",
+            "description" : [
+                "Bilder müssen durch Alternativtexte vollständig beschrieben werden",
+                "Bilder dürfen keine Texte behinhalten, außer sie sind als Logo vorgesehen",
+                "Bilder, die zur Dekoration dienen benötigen keinen Alternativtext"
+            ],
+            "task": "Unten sehen sie eine Liste aller Bilder mit Alternativtexten. Gehen sie diese durch und kreuzen sie zutreffende Antworten an. Klicken Sie danach auf WEITER",
+            "no_alt": "Kein Alternativtext vorhanden",
+            "alternativetext": "Alternativtext",
+            "alt_decorative": "Bild ist Dekorativ",
+            "alt_decorative_desc": "Dekorative Bildelemente benötigen keinen Alternativtext",
+            "alt_incorrect": "Alternativtext fehlerhaft",
+            "alt_correct": "Alternativtext korrekt",
+            "txt_correct": "Kein Text im Bild enthalten",
+            "txt_isLogo": "Bild ist ein Logo",
+            "txt_isLogo_desc": "In Logos sind Textelemente erlaubt",
+            "txt_incorrect": "Text im Bild enthalten und kein Logo",
+            "no_images": "Es wurden keine Bildelemente gefunden. Klicken Sie auf WEITER um fortzufahren"
+        },
+        "videos" : {
+            "question" : "Sind Untertitel und Audiodiskreptionen vorhanden?",
+            "description" : [
+                "Videos beinhalten Untertitel für Gehörlose, die den Inhalt des Videos abbilden",
+                "Falls zusätzlicher Text im Video existiert, wird dieser durch Audiodiskreptionen vorgelesen",
+                "Es existieren ggf. weitere barrierefreie Alternativen wie Transskripte für Podcasts"
+            ],
+            "task" : "Unten sehen sie eine Liste aller Videos. Schauen sie diese an und markieren sie zutreffende antworten. Klicken sie danach auf WEITER",
+            "vid_correct" : "Untertitel vollständig",
+            "vid_incorrect" : "Untertitel fehlerhaft",
+            "ad_notRequired" : "Kein zusätzlicher Text im Video vorhanden",
+            "ad_notRequired_desc" : "Audiodiskreption wird nur benötigt, falls Text im Video vorhanden ist",
+            "ad_correct" : "Audiodiskreption vollständig",
+            "ad_incorrect" : "Audiodiskreption unvollständig",
+            "no_videos" : "Es wurden keine Videoelemente gefunden. Klicken Sie auf WEITER um fortzufahren"
+        },
+        "lists": {
+            "question": "Sind Listen korrekt implementiert?",
+            "description": [
+                "Listen müssen als Listen ausgezeichnet und semantisch implementiert sein",
+                "Es genügt nicht, manuell \"1.\", ... im Text einzufügen",
+                "Alle richtig markierten Listen wurden rot umrandet",
+                "Wenn es Listen gibt, welche fett/schräg aber nicht umrandet sind, wurden sie nicht korrekt markiert"
+            ],
+            "faulty_lists": "Fehlerhafte Listen:",
+            "dialog_question": "Soll dieses Element als fehlerhafte Liste markiert werden?"
+        },
+        "textformatting": {
+            "question": "Ist fett oder schräg gedruckter Text richtig implementiert?",
+            "description": [
+                "Fett gedruckter Text ist mit <strong> ausgezeichnet",
+                "Kursiv gedruckter Text ist mit <em> ausgezeichnet",
+                "Das fett/schräg markieren nur über CSS reicht nicht aus",
+                "Alle richtig implementierten formatierte Texte wurden grün umrandet",
+                "Wenn es Text gibt, welcher fett/schräg aber nicht grün umrandet ist, wurde er nicht korrekt implementiert",
+                "Nicht korrekt implementierte formatierte Texte können nun von Ihnen durch anklicken markiert werden"
+            ],
+            "faulty_formatting": "Fehlerhafte formatierte Texte:",
+            "dialog_question": "Soll dieses Element als fehlerhafter formatierter Text markiert werden?"
+        },
+        "links": {
+            "question": "Werden für alle Links sinnvolle Linktexte angezeigt?",
+            "description": [
+                "Links bestehen nicht aus der URL, zu der sie führen",
+                "Falls der Link zu einer Datei führt, wird das Format angegeben",
+                "Der Linktext ist sinnvoll gewählt"
+            ],
+            "correct" : "Linktext korrekt",
+            "incorrect" : "Linktext inkorrekt",
+            "task" : "Unten sehen sie eine Liste aller Links. Vergleichen sie diese mit der Seite, auf die diese verweisen und markieren sie zutreffende antworten. Klicken sie danach auf WEITER",
+            "no_links" : "Es wurden keine Linkelemente gefunden. Klicken Sie auf WEITER um fortzufahren",
+            "types" : {
+                "null" : "führt zu keiner Seite",
+                "start" : "führt zum Anfang der hochgeladenen Seite",
+                "mail" : "führt zur E-Mail Adresse",
+                "section" : "führt zum Abschnitt",
+                "page" : "führt zu"
+            }
+        }
+    },
+    "automatic_testing" : {
+        "continue_test": "Überprüfung fortsetzen",
+        "show_in_file": "Im Dokument anzeigen",
+        "test_in_progress": "Bitte warten, die Seite wird überprüft.",
+        "title": "Automatische Überprüfung",
+        "no_err_found": "Es wurden keine Verstöße gefunden. Drücken Sie \"Überprüfung fortsetzen\" um mit der manuellen Überprüfung fortzufahren.",
+        "help_tooltip": "Hilfeseite Anzeigen"
+    },
+    "dashboard": {
+        "Your_courses_and_facultys": "Ihre Kurse & Fakultäten",
+        "manage_course": "Kurs verwalten",
+        "add_course": "kurs anlegen"
+    },
+    "detailedView": {
+        "infoDetailedView" : "Der Score wird wie folgt ermittelt: (Anzahl der richtig getesteten Elemente / Anzahl der zu testenden Elemente)*100",
+        "review": "Überprüfung",
+        "retest": "Erneut überprüfen",
+        "show": "Dokument anzeigen",
+        "delete": "Dokument löschen",
+        "checklist": "Checklist:",
+        "automatic": "Automatischer Test",
+        "automatic_desc": "Der Automatische Test hat Verstöße festgestellt die behoben werden müssen.",
+        "images": "Bilder",
+        "image_desc_alt": "Bilder haben keinen Alternativtext",
+        "image_desc_txt": "Bilder enthalten einen Text",
+        "videos": "Videos",
+        "video_desc_ad": "Videos enthalten keine Audiodeskription",
+        "video_desc_vid": "Videos enthalten keine Untertitel",
+        "links": "Links",
+        "link_desc": "Links sind nicht korrekt markiert",
+        "lists": "Listen",
+        "list_desc": "Listen sind nicht korrekt markiert",
+        "formatting": "Formatierte Texte",
+        "formatting_desc": "formatierte Texte sind nicht korrekt markiert",
+        "delete_title": "Löschen bestätigen",
+        "delete_desc": "Sind Sie sicher, dass Sie die HTML und ihre Reviews löschen möchten? Dieser Vorgang kann nicht rückgängig gemacht werden.",
+        "delete_cancel": "Abbrechen",
+        "delete_confirm": "Bestätigen",
+        "retest_title": "Erneut testen?",
+        "retest_desc": "Möchten Sie die gleiche Datei erneut testen? Das vorherige Resultat wird dabei überschrieben.",
+        "show_in_file": "Im Dokument anzeigen",
+        "test_in_progress": "Bitte warten, die Seite wird überprüft."
+    },
+    "progressBar": {
+        "Your_personal_progress": "Ihr persönlicher Fortschritt",
+        "barrier_free": "Barrierefrei (Entspricht AA)",
+        "not_yet_barrier_free": "Noch nicht Barrierefrei",
+        "own_avg": "Eigener Durchschnitt",
+        "total_avg": "Gesamt-Durchschnitt",
+        "NA": "Nicht verfügbar",
+        "infoOwn" : "Der Score wird wie folgt ermittelt: Summe aller Kursscores des Nutzers / Anzahl seiner Kurse.",
+        "infoAvg" : "Der Score wird wie folgt ermittelt: Summe aller Gruppenscores / Anzahl aller Gruppen."
+
+    },
+    "403": {
+        "title": "Fehlermeldung 403 - Verbot",
+        "masage": "Sie haben keine Berechtigung zum Zugriff auf diesen Server!",
+        "button": "Zurück zur letzten Seite"
+    },
+    "404": {
+        "title": "Fehlermeldung 404 - Nicht gefunden",
+        "masage": "Diese Seite konnte nich gefunden werden! ",
+        "button": "Zurück zur letzten Seite"
+    },
+    "admin": {
+        "admin_settings": "Administrator Einstellungen",
+        "request_successful": "Anfrage erfolgreich.",
+        "request_failed": "Die Anfrage ist fehlgeschlagen.",
+        "request_not_valid_user": "Bitte wählen Sie einen User aus.",
+        "request_not_valid_user_faculty": "Bitte wählen Sie einen User und eine Fakultät aus.",
+        "request_not_valid_faculty": "Bitte geben Sie einen Fakultätsnamen ein.",
+        "request_denied": "Der Server hat die Anfrage abgelehnt.",
+        "assign_facultyManager": "Fakultätsleiter ernennen",
+        "delete_facultyManager": "Fakultätsleiter entziehen",
+        "assign_admin": "Admin erstellen",
+        "delete_user": "User löschen",
+        "add_faculty": "Fakultät hinzufügen",
+        "delete_faculty": "Fakultät löschen"
+    },
+    "add_group_course": {
+        "add_group": "Neue Access Gruppe erstellen",
+        "request_successful_group": "Gruppe erstellen erfolgreich.",
+        "request_failed_group": "Gruppe erstellen fehlgeschlagen.",
+        "request_denied": "Der Server hat die Erstellung abgelehnt.",
+        "add_course": "Neuen Access Kurs erstellen",
+        "request_successful_course": "Kurs erstellen erfolgreich.",
+        "request_failed_course": "Kurs erstellen fehlgeschlagen.",
+        "request_not_valid_group": "Bitte wählen Sie eine Fakultät aus und geben Sie einen AccessGruppen-Namen an.",
+        "request_not_valid_course": "Bitte wählen Sie eine Gruppe aus und geben Sie einen AccessKurs-Namen an."
+    },
+    "group": {
+        "infoGroup": "Der Score wird wie folgt ermittelt: (Summe der einzelnen Kurse / Anzahl der Kurse in der Gruppe)"
+    },
+    "faculty": {
+        "infoFaculty": "Der Score wird wie folgt berechnet: (Summe der einzelnen Gruppenscores / Anzahl der Gruppen in der Fakultät)"
+    }
+}
